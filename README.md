@@ -130,11 +130,13 @@ You can test the PayPal API endpoints using Postman. Follow these steps:
 
 This project is open source and free to use for educational purposes.
 
-## 🙏 Credits
-
-Created by Glenn Mark, December 2025.
+## Members & Roles
+- **Glenn Mark Jimenez**       — Lead Developer, API & Authentication Handler, Testing
+- **Ralph Royet Delos Santos** — JavaScript Logic / Data Processing
+- **Mark Dave Esteron**        — UI/UX & CSS Designer, GitHub & Documentation Manager
 
 ---
 
 **Powered by PayPal Sandbox API** 🚀
+
 
