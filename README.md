@@ -127,7 +127,7 @@ You can test the PayPal API endpoints using Postman. Follow these steps:
 ```
 
 ## Screenshot
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot.jpeg)
 
 ## 📄 License
 
@@ -141,6 +141,7 @@ This project is open source and free to use for educational purposes.
 ---
 
 **Powered by PayPal Sandbox API** 🚀
+
 
 
 
